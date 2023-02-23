@@ -4,4 +4,4 @@ This Spotify clone app, built with React, TailWind, Redux, and RapidAPI, offers 
 
 The "Demo" is no longer valid because the API used is no longer valid.
 
-![spotify](https://user-images.githubusercontent.com/57075208/220982625-01c8edf7-4415-4b69-b3ec-684591e18408.png)
+![spotify](https://user-images.githubusercontent.com/57075208/220982625-01c8edf7-4415-4b69-b3ec-684591e18408.png) 
